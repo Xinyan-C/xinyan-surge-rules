@@ -1,2 +1,6 @@
+# NAME: ChinaMax
+# AUTHOR: Xinyan
+# REPO: https://github.com/Xinyan-C/xinyan-surge-rules/edit/main/SSH_rules.txt
+# UPDATED: 2025-04-05 00:46:10
 DOMAIN-SUFFIX,sxyv2.top,DIRECT
 DOMAIN-SUFFIX,sxycloud.cn,DIRECT
